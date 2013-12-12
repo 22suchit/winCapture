@@ -1,0 +1,4 @@
+winCapture
+==========
+
+ABCD
